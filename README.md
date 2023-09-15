@@ -98,10 +98,10 @@ Alice is studying.
 ```
 
 This demonstrates the use of classes and inheritance in TypeScript, where the `Student` class inherits properties and methods from the `Person` class and adds its own unique properties and methods.
-```
+
 
 I hope this explanation helps you understand the code! If you have any more questions or need further clarification, feel free to ask.
-```
+
 
 
 
