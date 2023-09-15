@@ -1,4 +1,4 @@
-#Lecture 8
+# Lecture 8
 
 ## Intersection Types in TypeScript
 
@@ -45,5 +45,7 @@ Ali Phull, role number: 344232, is a student in the class of Sir Jahanzaib Tayeb
 
 This demonstrates how intersection types can be used to combine properties from multiple interfaces into a single type.
 ```
+
+
 
 I hope this explanation helps you understand the code! If you have any more questions or need further clarification, feel free to ask.# lecture-8
