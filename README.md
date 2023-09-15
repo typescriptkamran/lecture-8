@@ -44,15 +44,7 @@ Ali Phull, role number: 344232, is a student in the class of Sir Jahanzaib Tayeb
 ```
 
 This demonstrates how intersection types can be used to combine properties from multiple interfaces into a single type.
-```
 
-
-
-I hope this explanation helps you understand the code! If you have any more questions or need further clarification, feel free to ask.# lecture-8
-
-Certainly! Here's an explanation of the provided code in `readme.md` format:
-
-```markdown
 ## TypeScript Code Explanation
 
 This code snippet showcases TypeScript code that demonstrates the usage of classes and inheritance.
@@ -109,3 +101,9 @@ This demonstrates the use of classes and inheritance in TypeScript, where the `S
 ```
 
 I hope this explanation helps you understand the code! If you have any more questions or need further clarification, feel free to ask.
+```
+
+
+
+
+
